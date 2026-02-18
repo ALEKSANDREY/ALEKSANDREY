@@ -1,27 +1,41 @@
 # Hey, I'm Andre 👋
 
-Software developer based in **San Francisco** with a passion for building things on the web and exploring cloud technologies.
+Software developer based in **San Francisco** with a passion for building on the web and exploring cloud technologies.
 
-## 🛠 What I Work With
+## 🛠 Tech Stack
 
 - **Languages:** JavaScript, TypeScript, Python, HTML/CSS, C
+- **Frameworks & Runtime:** React, Node.js
 - **Cloud & DevOps:** AWS (DeepRacer, SageMaker), Kubernetes, Katacoda
-- **Frameworks:** Node.js, React
-- **Tools:** Git, VS Code, GitHub Actions
+- **Tooling:** Git, GitHub Actions, VS Code
 
 ## 🚀 Featured Projects
 
-- [**dog-api-prework**](https://github.com/ALEKSANDREY/dog-api-prework) — Dog breed image gallery built with the Dog CEO API
-- [**SafeActualDoom**](https://github.com/ALEKSANDREY/SafeActualDoom) — Doom-inspired game built with Python
-- [**Business-calculator-project**](https://github.com/ALEKSANDREY/Business-calculator-project) — Business calculator web application
-- [**nodeSchool2**](https://github.com/ALEKSANDREY/nodeSchool2) — Node.js workshop exercises in TypeScript
-- [**katacoda-scenarios**](https://github.com/ALEKSANDREY/katacoda-scenarios) — Interactive DevOps learning scenarios
+| Project | What it does | Stack |
+|---|---|---|
+| [**dog-api-prework**](https://github.com/ALEKSANDREY/dog-api-prework) | Dog breed image gallery powered by the Dog CEO API | JavaScript, API integration |
+| [**SafeActualDoom**](https://github.com/ALEKSANDREY/SafeActualDoom) | Doom-inspired game prototype | Python |
+| [**Business-calculator-project**](https://github.com/ALEKSANDREY/Business-calculator-project) | Business calculator web app | HTML/CSS, JavaScript |
+| [**nodeSchool2**](https://github.com/ALEKSANDREY/nodeSchool2) | Node.js workshop exercises | TypeScript, Node.js |
+| [**katacoda-scenarios**](https://github.com/ALEKSANDREY/katacoda-scenarios) | Interactive DevOps learning scenarios | Kubernetes, shell scripting |
 
-## 📫 Let's Connect
+## 📌 What I'm Focused On
+
+- Building practical full-stack projects that solve clear user problems.
+- Deepening cloud-native skills (containers, orchestration, CI/CD).
+- Shipping small experiments regularly and iterating fast.
+
+## 🤝 Open To
+
+- Entry-level or junior software engineering opportunities.
+- Collaborating on open-source web or cloud projects.
+- Networking with developers in the Bay Area and beyond.
+
+## 📫 Connect
 
 - 🌐 [aleksandrey.github.io](https://aleksandrey.github.io)
 - 📍 San Francisco, CA
-- 💼 Open to opportunities
+- 💼 [GitHub Profile](https://github.com/ALEKSANDREY)
 
 ---
 

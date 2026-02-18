@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "robotic-haircut"
+version = "0.1.0"
+description = "Safety-first starter scaffold for a robotic haircut project"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name = "Andre"}]
+dependencies = []
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8.0",
+]
+
+[project.scripts]
+robotic-haircut = "robotic_haircut.main:main"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+addopts = "-q"
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.packages.find]
+where = ["src"]
